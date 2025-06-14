@@ -20,13 +20,13 @@ Here we can see a file named spaces in this filename , we used the following com
 
 `cat spaces in this filename `
 
-![bandit3.1](./images/bandit3.1.png "Bandit3.1")
+![bandit3.1](./images/Bandit3.1.png "Bandit3.1")
 
 But the above command won't give us the correct output as the file name has spaces so, to overcome this we will enclose the file name is double quotation marks as following:
 
 `cat "spaces in this filename"`
 
-![bandit3.2](./images/bandit3.2.png "Bandit3.2")
+![bandit3.2](./images/Bandit3.2.png "Bandit3.2")
 
 Here we got the password, this password will be used further when we login to bandit3.
 
@@ -36,4 +36,4 @@ To login we have to use SSH . Following is a basic syntax of the command which w
 
 `ssh -p 2220 bandit3@bandit.labs.overthewire.org`
 
-![bandit3.3](./images/bandit3.3.png "Bandit3.3")
+![bandit3.3](./images/Bandit3.3.png "Bandit3.3")
