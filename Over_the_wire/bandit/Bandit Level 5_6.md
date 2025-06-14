@@ -39,7 +39,7 @@ Now to tailor this command to our need  we will explore it's man page to find re
 
 `man find`
 
-1- So the first condition was that it should be a human readable find so we found a following flag that was a bit relevant 
+1- So the first condition was that it should be a human readable file so we found a following flag that was a bit relevant 
 
 ![Bandit6.4](./images/Bandit6.4.png "Bandit6.4")
 
