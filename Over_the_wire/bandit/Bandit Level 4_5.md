@@ -46,6 +46,6 @@ To login we have to use SSH . Following is a basic syntax of the command which w
 
 `ssh -p <port_number> <username>@<host>`
 
-`ssh -p 2220 bandit4@bandit.labs.overthewire.org`
+`ssh -p 2220 bandit5@bandit.labs.overthewire.org`
 
 ![Bandit5.4](./images/Bandit5.4.png "Bandit5.4")
