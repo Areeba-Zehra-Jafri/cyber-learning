@@ -1,4 +1,4 @@
-# BANDIT LEVEL 12 -> 13
+# BANDIT LEVEL 13 -> 14
 
 ## GOAL:
 
@@ -8,7 +8,7 @@
 - Note: localhost is a hostname that refers to the machine you are working on
 - host => bandit.labs.overthewire.org
 - port => 2220
-- username => bandit13
+- username => bandit14
 
 ## SOLUTION:
 
