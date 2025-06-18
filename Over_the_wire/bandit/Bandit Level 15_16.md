@@ -9,7 +9,7 @@
 
 ## SOLUTION:
 
-So this time we had to submit the password on localhost at port 30001 but using ssl/tls . For this we have a tool called **OpenSSL**.
+So, this time we had to submit the password on localhost at port 30001 but using ssl/tls . For this we have a tool called **OpenSSL**.
 
 **OpenSSL** is a powerful command-line tool and library used for creating, managing, and using cryptographic keys, certificates, and secure network connections using SSL/TLS protocols.
 
