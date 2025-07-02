@@ -6,7 +6,7 @@
 You do not need to create new connections each time
 - host => bandit.labs.overthewire.org
 - port => 2220
-- username => bandit24
+- username => bandit25
 
 ## SOLUTION:
 

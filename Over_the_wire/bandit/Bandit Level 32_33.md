@@ -6,7 +6,7 @@
 - After all this git stuff, it’s time for another escape. Good luck!
 - host => bandit.labs.overthewire.org
 - port => 2220
-- username => bandit32
+- username => bandit33
 
 ## SOLUTION:
 
