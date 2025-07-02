@@ -1,4 +1,4 @@
-# BANDIT LEVEL 30-> 31
+# BANDIT LEVEL 32-> 33
 
 
 ## GOAL:
