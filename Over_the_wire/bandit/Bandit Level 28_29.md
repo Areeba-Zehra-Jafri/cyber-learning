@@ -7,7 +7,7 @@
 - Clone the repository and find the password for the next level.
 - host => bandit.labs.overthewire.org
 - port => 2220
-- username => bandit28
+- username => bandit29
 
 ## SOLUTION:
 
