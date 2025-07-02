@@ -6,7 +6,7 @@
 - Good job getting a shell! Now hurry and grab the password for bandit27!
 - host => bandit.labs.overthewire.org
 - port => 2220
-- username => bandit2
+- username => bandit27
 
 ## SOLUTION:
 
