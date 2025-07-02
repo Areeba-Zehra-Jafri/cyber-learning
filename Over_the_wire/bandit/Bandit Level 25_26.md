@@ -6,7 +6,7 @@
 - Logging in to bandit26 from bandit25 should be fairly easy… The shell for user bandit26 is not /bin/bash, but something else. Find out what it is, how it works and how to break out of it.
 - host => bandit.labs.overthewire.org
 - port => 2220
-- username => bandit24
+- username => bandit26
 
 ## SOLUTION:
 
