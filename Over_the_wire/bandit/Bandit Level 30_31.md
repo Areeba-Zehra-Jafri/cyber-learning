@@ -13,7 +13,7 @@
 
 First according to the task we cloned the repo  using the folllowing command on our local PC . Following is the final command we used.We are using **bandit.labs.overthewire.org:2220** in place of localhost as we are not logged in as bandit user.
 
-`git clone ssh://bandit29-git@bandit.labs.overthewire.org:2220/home/bandit29-git/repo`
+`git clone ssh://bandit30-git@bandit.labs.overthewire.org:2220/home/bandit30-git/repo`
 
 When asked for password just give the password of bandit30.
 
