@@ -69,11 +69,11 @@ I looked through the twitter and github but didn't found anything else . So, the
 
 ### 7- What is the person's password?
 
-My first thought was to look at the previous commits on the GitHib repo but after searching for a while didn't found much there . Now I have already searched twitter so now I decided to look at the webiste. Tried to see the source code through `CTRL+U` but there was a lot of code . In the end I opened the inspector and while hovering on different sections I found a section where there was something written in the code but not visible as it was in white .
+My first thought was to look at the previous commits on the GitHib repo but after searching for a while didn't found much there . Now I have already searched twitter so now I decided to look at the webiste. I tried to see the source code through `CTRL+U` but there was a lot going on . In the end I opened the inspector and while hovering on different sections I found a section where there was something written in the code but not visible as it was in white .
 
 ![9](images/9.png)
 
-This was the password and by this we got this answer correct . I also tried changing the colour of that text and then It appeared on the site.
+This was the password and by this we got this answer correct . I also tried changing the colour of that text and then it appeared on the site.
 
 ![10](images/10.png)
 
