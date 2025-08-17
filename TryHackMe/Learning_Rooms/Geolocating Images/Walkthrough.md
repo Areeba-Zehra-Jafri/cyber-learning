@@ -131,5 +131,3 @@ Following are some tools that I used in solving this room.
 1- [RevEye Reverse Image Search](https://addons.mozilla.org/en-US/firefox/addon/reveye-ris/)  (For firefox)
 
 2- [RevEye Reverse Image Search](https://chromewebstore.google.com/detail/reveye-reverse-image-sear/keaaclcjhehbbapnphnmpiklalfhelgf)  (For Chrome)
-
-3-
